@@ -1,4 +1,4 @@
-// components/TransactionHistory.tsx
+
 import React from 'react';
 
 type Transaction = {

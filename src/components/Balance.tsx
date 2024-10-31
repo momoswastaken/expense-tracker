@@ -1,4 +1,4 @@
-// components/Balance.tsx
+
 import React from 'react';
 
 type BalanceProps = {
